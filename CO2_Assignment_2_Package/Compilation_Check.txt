@@ -1,0 +1,10 @@
+All source files compiled successfully with GCC using -std=c11 -Wall -Wextra -O2.
+
+Q1_billing.c: OK
+Q2_short_circuit.c: OK
+Q3_device_register.c: OK
+Q4_grading.c: OK
+Q5_prime.c: OK
+Q5_prime_loop_variants.c: OK
+Q6_loan_repayment.c: OK
+Q7_prime_optimisation.c: OK
