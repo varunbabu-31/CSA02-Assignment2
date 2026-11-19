@@ -1,0 +1,2 @@
+Short-circuit verification calls: 2 of 5
+Bitwise verification calls: 5 of 5
