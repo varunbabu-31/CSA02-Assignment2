@@ -1,0 +1,3 @@
+Scenario 1: total = Rs. 200.00, net = Rs. 189.00
+Scenario 2: total = Rs. 750.00, net = Rs. 787.50
+Scenario 3: total = Rs. 400.00, net = Rs. 403.20
